@@ -1,3 +1,9 @@
 # H24_A13_TESt2
 H24_A13_TESt2
-commit
+
+#Etapes a faire:
+-initialiser un dépot
+-commit
+-branche 
+-pull request
+-merge
